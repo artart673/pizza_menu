@@ -136,7 +136,6 @@ header {
 }
 
 .pizza-card:hover {
-    transform: rotateY(15deg) rotateX(10deg); /* 3D вращение */
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Изменяем тень при наведении */
 }
 
